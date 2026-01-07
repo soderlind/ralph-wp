@@ -233,6 +233,15 @@ Adjust these to match your comfort level and CI/CD setup.
 
 ## Demo
 
+### Requirements
+- GitHub Copilot CLI installed (see [Install / update Copilot CLI](#install--update-copilot-cli-standalone))
+- Git installed
+- Node.js + npm installed (for `npx` and `wp-env`)
+- Docker installed (for `wp-env`) and running
+- PHP + Composer installed (for `composer lint` and `composer test`)
+
+### Let's build a demo WordPress plugin with Ralph!	
+
 Run Ralph in an isolated sandbox using a `git worktree` so you can delete everything afterwards.
 
 1. Clone this repo and `cd` into it:
