@@ -36,7 +36,11 @@ You’ll find two helper scripts:
 
 Here’s an example of what running `MODEL=claude-opus-4.5 ./ralph-once.sh` might look like:
 
-https://github.com/user-attachments/assets/221b4b44-d6ac-455c-86e9-66baa470953d
+
+
+
+https://github.com/user-attachments/assets/47a8a02c-c8bc-429c-9a2e-e9e57f77d6d3
+
 
 
 
