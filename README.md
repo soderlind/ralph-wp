@@ -56,7 +56,7 @@ https://github.com/user-attachments/assets/47a8a02c-c8bc-429c-9a2e-e9e57f77d6d3
 └── ralph-once.sh
 ```
 
-
+>[wordpress.instructions.md](https://github.com/github/awesome-copilot/blob/main/instructions/wordpress.instructions.md) is from  [Awesome GitHub Copilot Customizations](https://github.com/github/awesome-copilot). I made the instructions, but please improve them and send PRs!
 
 ## `plans/prd.json` format
 
