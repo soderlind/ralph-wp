@@ -51,7 +51,7 @@ for ((i=1; i<=iterations; i++)); do
       --allow-tool 'write' \
       --allow-tool 'shell(composer)' \
       --allow-tool 'shell(npm)' \
-        --allow-tool 'shell(npx)' \
+      --allow-tool 'shell(npx)' \
       --allow-tool 'shell(git)' \
       --deny-tool 'shell(rm)' \
       --deny-tool 'shell(git push)' \
