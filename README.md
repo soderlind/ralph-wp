@@ -48,6 +48,7 @@ https://github.com/user-attachments/assets/47a8a02c-c8bc-429c-9a2e-e9e57f77d6d3
 
 ```
 .
+├── .github/instructions/wordpress.instructions.md
 ├── plans/
 │   └── prd.json
 ├── progress.txt
